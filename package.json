@@ -1,0 +1,11 @@
+{
+  "name": "lwc2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "public/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "5.2.2"
+  }
+}
